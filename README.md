@@ -4,4 +4,5 @@
 ### <b>Start Page App</b>
 <img src="/imagini/startApp.jpg" width = "600" height="600">   
 
+### <b>An example of an abstract painting saved in jpg format:</b>
 <img src="/imagini/painting1.jpg" width = "600" height="600">
