@@ -8,7 +8,7 @@
 - To color the generated shapes, the user selects a desired color by clicking the **Color** button, then uses the **Fill** button to apply the color to specific areas by clicking on them with the cursor.
 - The **ClearPage** button resets the drawing area by removing all generated shapes.
 - The application provides a **ClearPage** button that resets the drawing area by removing all generated shapes.
-- The user can save the generated abstract painting in popular image formats such as **JPG or PNG** using the **Save** button, enabling them to store or share their creations.
+- The user can save the generated abstract painting in popular image format such as **JPEG (.jpg).** using the **Save** button, enabling them to store or share their creations.
 - The application integrates with the Windows printing system: by clicking the **Print** button, the user can directly print their created abstract painting.
 
 ### <b>Start Page App:</b>
